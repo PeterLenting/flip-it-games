@@ -1,0 +1,60 @@
+body {
+  font-family: 'Martel', serif;
+  background-color: #F2F2F2;
+}
+
+.header {
+  padding-top: 10px;
+  padding-left: 20px;
+  color: #00203F; 
+}
+
+header h4 {
+  font-style: italic;  
+}
+
+hr {
+  border:1px solid #00203F; 
+  border-radius: 5px;
+}
+
+.main-content {
+  margin-top: 120px;
+}
+
+.game-link {
+  border: 2px solid #00203F;
+  background-color: #ADEFD1;
+  box-shadow: 5px 5px 5px;   
+  margin-right: 10px;
+}
+
+.jumbotron {
+  background: linear-gradient(#ADEFD1, #00203F);  
+}
+
+.lead {
+  color: white;  
+}
+
+.btn-contact {
+  color: #ADEFD1;
+  background-color: #00203F;
+  border: 2px solid #ADEFD1;
+  margin-bottom: 10px;
+}
+
+.threedee {
+  font-family: 'Kalam', cursive;
+  font-size: 2rem;
+  font-style: italic
+}
+
+.game-img {
+  width: 100%;
+  padding-bottom: 15px;  
+}
+
+.game-link h3 {
+  padding-top: 15px;  
+}

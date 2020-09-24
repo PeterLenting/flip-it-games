@@ -51,6 +51,23 @@ hr {
   margin-bottom: 10px;
 }
 
+/* Contact */
+
+#contact-form {
+  color: #00203F;  
+}
+
+form {
+  margin-bottom: 10px;  
+}
+
+#btn-contactform {
+  background-color: #ADEFD1;
+  color: #00203F;
+  border-color: #ADEFD1;
+  font-weight: bold;
+}
+
 /* Index - Presentation of games */
 
 .game-link {
